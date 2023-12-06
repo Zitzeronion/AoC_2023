@@ -32,5 +32,3 @@ example s = map (\c -> [c]) s
 
 stringToInt :: String -> Int
 stringToInt s = read s 
-
-
